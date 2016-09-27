@@ -1,0 +1,63 @@
+body{
+	background :#514E4E;
+	font-family: Georgia, serif;
+}
+
+i{
+	font-size: 15px;
+}
+
+hr{
+	border-width: 3px;
+}
+
+.header{
+	text-align: left;
+	background-color: #0B0B0C;
+	padding: 30px 20px;
+	margin: -11px -10px auto;
+	color: #697274;
+	background: linear-gradient(#121111 3%, #3A3B3C 100%);
+	border-radius: 40px 0 0 0;
+}
+
+.kotak-login{
+	width: 400px;
+	padding: 10px;
+	background: #BDBDC0;
+	margin: 100px auto;
+	-moz-border-radius: 40px 0 20px 0;
+	border-radius: 40px 0 40px 0;
+
+}
+
+form{
+	padding: 10px;
+
+}
+label{
+	display: block;
+	width: 140px;
+	float: left;
+}
+
+.logo-login{
+	float: left;
+	height: 35px;
+	margin: 145px 0 0 15px;
+}
+
+.btn-login{
+	float: right;
+	background: linear-gradient(#0B0B0C 5%, #000000 100%);
+	color: #697274;
+	font-weight: bold;
+	cursor: pointer;
+	outline:none;
+	border: 1px solid #D2D2D2;
+}
+
+.copyright{
+	text-align: center;
+	font-family: verdana;
+}
